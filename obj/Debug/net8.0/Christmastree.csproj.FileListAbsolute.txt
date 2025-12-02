@@ -1,0 +1,14 @@
+/Users/valeriapotehina/Christmastree/bin/Debug/net8.0/Christmastree
+/Users/valeriapotehina/Christmastree/bin/Debug/net8.0/Christmastree.deps.json
+/Users/valeriapotehina/Christmastree/bin/Debug/net8.0/Christmastree.runtimeconfig.json
+/Users/valeriapotehina/Christmastree/bin/Debug/net8.0/Christmastree.dll
+/Users/valeriapotehina/Christmastree/bin/Debug/net8.0/Christmastree.pdb
+/Users/valeriapotehina/Christmastree/obj/Debug/net8.0/Christmastree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeriapotehina/Christmastree/obj/Debug/net8.0/Christmastree.AssemblyInfoInputs.cache
+/Users/valeriapotehina/Christmastree/obj/Debug/net8.0/Christmastree.AssemblyInfo.cs
+/Users/valeriapotehina/Christmastree/obj/Debug/net8.0/Christmastree.csproj.CoreCompileInputs.cache
+/Users/valeriapotehina/Christmastree/obj/Debug/net8.0/Christmastree.dll
+/Users/valeriapotehina/Christmastree/obj/Debug/net8.0/refint/Christmastree.dll
+/Users/valeriapotehina/Christmastree/obj/Debug/net8.0/Christmastree.pdb
+/Users/valeriapotehina/Christmastree/obj/Debug/net8.0/Christmastree.genruntimeconfig.cache
+/Users/valeriapotehina/Christmastree/obj/Debug/net8.0/ref/Christmastree.dll
